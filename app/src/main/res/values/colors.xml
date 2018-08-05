@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="sampleToolbar">#5E35B1 </color>
+    <color name="primaryText">#FFFFFF</color>
+    <color name="textColor">#000000</color>
+    <color name="colorSwitch">#40C4FF</color>
+    <color name="snackBarBackground">#D4E157</color>
+    <color name="snackBarText">#212121</color>
+    <color name="snackBarionActonText">#FF3D00</color>
+    <color name="navigationColor">#76FF03</color>
+</resources>

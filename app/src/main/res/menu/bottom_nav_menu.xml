@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<group
+    android:checkableBehavior="single">
+    <item
+        android:title="@string/favorites"
+        android:id="@+id/favorites"
+        android:icon="@drawable/starred"/>
+    <item
+        android:title="@string/recent"
+        android:id="@+id/recent"
+        android:icon="@drawable/recent"/>
+    <item
+        android:title="@string/music"
+        android:id="@+id/music"
+        android:icon="@drawable/music"/>
+</group>
+</menu>

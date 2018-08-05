@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">SampleDesign</string>
+    <string name="label_profile_name">Bojack Horseman</string>
+    <string name="label_email">bojack_horse@gmail.com</string>
+    <string name="inbox">Inbox</string>
+    <string name="starred">Starred</string>
+    <string name="sent_mail">Sent Mail</string>
+    <string name="drafts">Drafts</string>
+    <string name="sub_header">Others</string>
+    <string name="spam">Spam</string>
+    <string name="trash">Trash</string>
+    <string name="receipts">Receipts</string>
+    <string name="setting">Setting</string>
+    <string name="open_drawer">Open drawer</string>
+    <string name="close_drawer">Close drawer</string>
+    <string name="contactUs">Contact Us</string>
+    <string name="favorites">Favorites</string>
+    <string name="recent">Recent</string>
+    <string name="music">Music</string>
+</resources>
