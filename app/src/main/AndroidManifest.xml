@@ -30,6 +30,8 @@
             android:parentActivityName=".MainActivity">
 
         </activity>
+        <activity android:name=".SpamActivity"
+            android:parentActivityName=".MainActivity"></activity>
     </application>
 
 </manifest>
